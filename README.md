@@ -94,6 +94,9 @@ Business Intelligence
 Author
 Chimaobi (Victor)  
 Data Analyst | Healthcare Analytics | Power BI | SQL | Excel
+## 📎 Dashboard Preview
+![Healthcare Analytics Dashboard](Healthcare Dashboard work.png)
+
 
 
  
