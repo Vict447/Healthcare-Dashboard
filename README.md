@@ -91,3 +91,9 @@ Data Modelling
 Healthcare Analytics
 
 Business Intelligence
+Author
+Chimaobi (Victor)  
+Data Analyst | Healthcare Analytics | Power BI | SQL | Excel
+
+
+ 
